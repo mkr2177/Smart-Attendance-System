@@ -30,14 +30,6 @@ This project is a **smart classroom entry and attendance solution** built using 
 ---
 
 
-
-## 🎥 Project Walkthrough
-
-Watch the complete working demo on YouTube:  
-**[▶️ IoT + RFID Attendance System Demo](https://youtu.be/Bj2aLjxzRwg)**
-
----
-
 ## 🔧 Working Logic
 
 1. A student taps their RFID card on the reader.
@@ -61,15 +53,3 @@ Watch the complete working demo on YouTube:
 - Admin dashboard for real-time attendance.
 - SMS/Email alerts on invalid access.
 - Face recognition as an additional layer.
-
----
-
-## 👨‍💻 Developed By
-
-**Vagish Bhardwaj**  
-B.Tech, IIIT Kottayam 
-
-
-[LinkedIn](https://www.linkedin.com/in/vagish-bhardwaj-115089252/) • [GitHub](https://github.com/unfilteredd)
-
----
