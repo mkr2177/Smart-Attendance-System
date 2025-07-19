@@ -53,3 +53,12 @@ This project is a **smart classroom entry and attendance solution** built using 
 - Admin dashboard for real-time attendance.
 - SMS/Email alerts on invalid access.
 - Face recognition as an additional layer.
+
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+
+![Screenshot 1](Screenshot%20(1308).png)
+![Screenshot 2](Screenshot%20(1309).png)
+![Screenshot 3](Screenshot%20(1310).png)
+![Screenshot 4](Screenshot%20(1311).png)
